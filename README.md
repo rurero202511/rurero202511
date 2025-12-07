@@ -10,9 +10,13 @@
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning!
 - 📫 How to reach me:
-  - [X - rurero202511](https://x.com/rurero202511)
-  - [GitHub - rurero202511](https://github.com/rurero202511)
-  - [HatenaBlog - rurero202511](https://rurero202511.hatenablog.jp)
+  - X
+    - https://x.com/rurero202511
+  - GitHub
+    - https://github.com/rurero202511
+  - HatenaBlog
+    - https://rurero202511.hatenablog.jp
+
 <br>
 
 
